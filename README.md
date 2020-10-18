@@ -8,4 +8,5 @@
 ### 方程：
 ### 试探函数的形式
 ### 配置的运行
-### 效果图
+### 效果图  
+！[image](https://github.com/zhiyiqin/-erjie/blob/master/1603013554.jpg)
